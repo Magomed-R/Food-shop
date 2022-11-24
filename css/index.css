@@ -16,3 +16,13 @@
 .price{
     font-size: 20px;
 }
+
+.skidka{
+    position: absolute;
+    top: -5px;
+    left: -5px;
+    font-size: 12px;
+    border-radius: 6px;
+    background-color: #4dfa5f;
+    text-align: center;
+}
