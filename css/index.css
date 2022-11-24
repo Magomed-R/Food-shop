@@ -1,0 +1,18 @@
+.btn{
+    margin: 10px;
+}
+
+.btn-price{
+    display: flex;
+    justify-content: space-evenly;
+    align-items: center;
+    text-align: center;
+}
+
+.btn{
+    flex-basis: 150px;
+}
+
+.price{
+    font-size: 20px;
+}
