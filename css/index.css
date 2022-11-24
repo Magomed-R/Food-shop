@@ -1,0 +1,28 @@
+.btn{
+    margin: 10px;
+}
+
+.btn{
+    flex-basis: 150px;
+}
+
+.price{
+    font-size: 20px;
+}
+
+.skidka{
+    position: absolute;
+    top: -5px;
+    left: 0px;
+    font-size: 16px;
+    border-radius: 6px;
+    background-color: #4dfa5f;
+    text-align: center;
+}
+
+.btn-price{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    text-align: center;
+}
